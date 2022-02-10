@@ -4,11 +4,11 @@
 <p align="left">
 <img src="https://komarev.com/ghpvc/?username=davidjaras&label=Profile%20views&color=0e75b6&style=flat" alt="davidjaras" /> </p>
 
-- 🌱 I’m currently learning **GO**
+- 🌱 I’m currently learning **Kubernetes**
 
 - 💬 Ask me about **Math, Python, SQL, some Docker and servers management**
 
-- 📫 How to reach me **twitter (maybe) @davidjarasl**
+- 📫 How to reach me **linkedin https://www.linkedin.com/in/davidjaras/**
 
 - ⚡ Fun fact **A pizza is a real time graph of how much pizza is left**
 
