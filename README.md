@@ -11,9 +11,3 @@
 - 📫 How to reach me **linkedin https://www.linkedin.com/in/davidjaras/**
 
 - ⚡ Fun fact **A pizza is a real time graph of how much pizza is left**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/davidjarasl" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="davidjarasl" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/davidjaras" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="davidjaras" height="30" width="40" /></a>
-</p>
