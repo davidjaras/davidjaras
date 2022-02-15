@@ -15,7 +15,7 @@ When I am not an engineer, I write some thoughts and I am a Toreto (family first
 
 - 💬 Ask me about **Math, Python, SQL, some Docker and servers management**
 
-- 📫 How to reach me **<a src="https://www.linkedin.com/in/davidjaras/"> LinkedIn </a>**
+- 📫 How to reach me **<a src="https://www.linkedin.com/in/davidjaras/"> LinkedIn </a>** https://www.linkedin.com/in/davidjaras/
 
 - ⚡ Fun fact **A pizza is a real time graph of how much pizza is left**
 
