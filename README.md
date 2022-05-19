@@ -5,10 +5,8 @@
   <h1 align="left">Hi, I'm David Jaramillo S.</h1>
 </div>
 
-<h3 align="left">Data Engineer at Admetricks | Member of Platzi Master | Telecommunications engineer</h3>
+<h3 align="left">Data Engineer at Admetricks | Telecommunications engineer</h3>
 Data Engineer most of the time. Telecommunications Engineer in another life (before decide making code for living). I always try to learn something new everyday. I have worked on projects with IoT and Web Development (To know more professional info, the LinkedIn is below).
-
-When I am not an engineer, I write some thoughts and I am a Toreto (family first)
 
 
 - 🌱 I’m currently learning **Kubernetes** <span style="font-size: 8px">and how to workout</span>
