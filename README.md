@@ -9,7 +9,7 @@
 Data Engineer most of the time. Telecommunications Engineer in another life (before decide making code for living). I always try to learn something new everyday. I have worked on projects with IoT, Web Development and Data extraction from different sources (To know more professional info, the LinkedIn is below).
 
 
-- 🌱 I’m currently learning **Kubernetes** <span style="font-size: 8px">and how to workout</span>
+- 🌱 I’m currently learning about **LLMs** <span style="font-size: 8px"></span>
 
 - 💬 Ask me about **Math, Python, SQL, some Docker and servers management**
 
