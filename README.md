@@ -5,8 +5,8 @@
   <h1 align="left">Hi, I'm David Jaramillo S.</h1>
 </div>
 
-<h3 align="left">Data Engineer at Admetricks | Telecommunications engineer</h3>
-Data Engineer most of the time. Telecommunications Engineer in another life (before decide making code for living). I always try to learn something new everyday. I have worked on projects with IoT and Web Development (To know more professional info, the LinkedIn is below).
+<h3 align="left">Senior Data Capture Engineer at Similarweb - Admetricks | Telecommunications engineer</h3>
+Data Engineer most of the time. Telecommunications Engineer in another life (before decide making code for living). I always try to learn something new everyday. I have worked on projects with IoT, Web Development and Data extraction from different sources (To know more professional info, the LinkedIn is below).
 
 
 - 🌱 I’m currently learning **Kubernetes** <span style="font-size: 8px">and how to workout</span>
