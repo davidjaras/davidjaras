@@ -5,17 +5,20 @@
   <h1 align="left">Hi, I'm David Jaramillo S.</h1>
 </div>
 
-<h3 align="left">Senior Data Capture Engineer at Similarweb - Admetricks | Telecommunications engineer</h3>
-Data Engineer most of the time. Telecommunications Engineer in another life (before decide making code for living). I always try to learn something new everyday. I have worked on projects with IoT, Web Development and Data extraction from different sources (To know more professional info, the LinkedIn is below).
+<h3 align="left">Data Engineer | Telecommunications Engineer</h3>
+Data Engineer with 7+ years working on backend services and large-scale data capture systems. Telecommunications Engineer in another life (before deciding to make code for living). Currently exploring AI/LLM applications and experimenting with different approaches
 
+- 🔧 Day to day: **Python, Django, Kubernetes, AWS, ETL pipelines, proxy management**
 
-- 🌱 I’m currently learning about **LLMs** <span style="font-size: 8px"></span>
+- 🌱 Currently learning: **LLMs, RAG, LangChain, MCP (Model Context Protocol)**
 
-- 💬 Ask me about **Math, Python, SQL, some Docker and servers management**
+- 🛠️ Playing with: **Claude Code, Cursor**
 
-- 📫 How to reach me **<a src="https://www.linkedin.com/in/davidjaras/"> LinkedIn </a>** https://www.linkedin.com/in/davidjaras/
+- 💬 Ask me about **Python, SQL, Docker, Kubernetes, data pipelines**
 
-- ⚡ Fun fact **A pizza is a real time graph of how much pizza is left**
+- 📫 How to reach me **[LinkedIn](https://www.linkedin.com/in/davidjaras/)**
+
+- ⚡ Fun fact **A pizza is a real-time graph of how much pizza is left**
 
 <h3 align="left">Technologies I use:</h3>
 <div>
@@ -28,13 +31,18 @@ Data Engineer most of the time. Telecommunications Engineer in another life (bef
   <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" />
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
 </div>
-
+<h3 align="left">Focused on:</h3>
+<div>
+  <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/LLMs-4285F4?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG-FF6B6B?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/MCP-7C3AED?style=for-the-badge&logoColor=white" />
+</div>
 <h3 align="left">Some stats:</h3>
 <div>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=davidjaras&theme=vue">
